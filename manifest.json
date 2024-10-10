@@ -1,0 +1,16 @@
+{
+    "name": "PWA com Geolocalização",
+    "short_name": "PWA Geo",
+    "start_url": "/",
+    "display": "standalone",
+    "background_color": "#ffffff",
+    "description": "Exemplo de PWA com geolocalização",
+    "icons": [
+      {
+        "src": "/icons/icon-192x192.png",
+        "sizes": "192x192",
+        "type": "image/png"
+      }
+    ]
+  }
+  
